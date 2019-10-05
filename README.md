@@ -1,4 +1,4 @@
-You can view only demo to clic next url https://citasapp.herokuapp.com
+You can view only demo to clic next url https://citasapp.herokuapp.com or https://distracted-hoover-32b58f.netlify.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
